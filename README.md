@@ -1,1 +1,3 @@
-# natalya_rapstine_playground
+# Natalya's playground
+
+A place to play with `git`! 
